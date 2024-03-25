@@ -1,0 +1,336 @@
+body {
+    position: relative;
+    background-color:black;
+    margin: 0;
+}
+
+body>.head {
+    position: absolute;
+    width: 1340px;
+    height: 100px;
+    background-color:black;
+}
+
+body>div>.top{
+    margin-left: 169px;
+    }
+
+.menuTop{
+        margin-left: 18px;
+    }
+
+
+.li>li {
+    display: inline-block;
+    color: aliceblue;
+    margin: 5PX;
+    margin-bottom: 0;
+    margin-top:20px ;
+    
+    
+}
+
+.B>.position>ul>li {
+
+    color: aliceblue;
+    display: inline-block;
+    margin: 5px;
+    font-size: 15px;
+    
+
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.B {
+    position: absolute;
+    background-color:#1A4500;
+    width: 1350px;
+    height: 20px;
+    top: 100px;
+
+}
+
+.position{
+    position: absolute;
+    background-color:#1A4500;
+    width: 1003px;
+    height: 20px;
+    left: 167px;
+    margin: 0;
+}
+
+.A {
+    float: right;
+    margin: 0px;
+
+}
+
+.menu {
+    margin-left: 130px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+ }
+
+.list {
+    background-color: aliceblue;
+    display: inline-block;
+    text-align: center;
+    margin: 7px;
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+    border-radius: 4px;
+
+
+}
+
+h2 {
+    background-color: aliceblue;
+    font-size: 10px;
+    color: black;
+}
+
+
+body>.container {
+    position: absolute;
+    background-color:#242222a2;
+    width: 1000px;
+    height: 700px;
+    left: 170px;
+    top: 120px;
+}
+
+body>div>div>div>.login {
+    position: absolute;
+    background-color: aliceblue;
+    width: 360px;
+    height: 250px;
+    left: 140px;
+    padding: px;
+    text-align: center;
+
+}
+
+body>div>div>div>div>.welcome {
+    position: absolute;
+    background-color: #2d2d2d;
+    width: 360px;
+    height: 20px;
+    margin: 0;
+
+}
+
+body>div>div>div>div>div>.coupon {
+    position: absolute;
+    background-color: #2d2d2d;
+    width: 365px;
+    height: 20px;
+
+}
+
+body>div>div>div>div>.check{
+    position: absolute;
+    background-color: aliceblue;
+    width: 365px;
+    height: 100px;
+    left: 520px;
+    margin: 0;
+
+}
+
+button{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 10px ;
+    width: 340px;
+    height: 39px;
+    border: 3px green solid;
+    
+}
+
+input{
+    width: 340px;
+    height: 30px;
+    border-radius: 6px;
+    border: 1px solid rgb(94, 180, 94);
+    margin: 5px;
+
+    
+    
+}
+
+.input{
+    margin-top: 10px;
+}
+
+.button{
+    margin-top: 30px;
+}
+
+body>div>div>div>div.Search{
+    position: absolute;
+    background-color: aliceblue;
+    width: 365px;
+    height: 100px;
+    left: 520px;
+    top: 250px;
+    margin-top: 20px;
+
+}
+
+
+body>div>div>div>div>div.odd{
+    position: absolute;
+    background-color: #2d2d2d;
+    width: 365px;
+    height: 20px;
+
+}
+
+
+
+p{
+    margin: 0;
+}
+
+
+
+.input-A{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.input-B{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.bottom{
+    position: absolute;
+    width: 1350px;
+    height: 390px;
+    background-color: #1d1b1ba2;
+    top: 820px;
+
+}
+
+.bottom>.bottom-B{
+    position: absolute;
+    width: 1000px;
+    height: 330px;
+    background-color: rgb(57, 72, 78);
+    left: 170px;
+}
+
+.bottom>.bottom-B>.bottom-A{
+    position: absolute;
+    width: 1000px;
+    height: 3px;
+    background-color: green;
+    
+    
+
+}
+
+.bottom>.bottom-B>.bottom-A>div{
+    position: absolute;
+    width:228px;
+    height: 3px;
+    background-color: red;
+    left: 772px;
+}
+
+.image{
+    float: right;
+}
+
+.images{
+    position: absolute;
+    top: 265px;
+    left: 600px;
+    
+}
+
+.img{
+    margin: 3px;
+}
+
+.footer{
+    position: absolute;
+    top:310px;
+    width: 1000px;
+    height: 50px;
+    background-color: #3b3f4b;
+}
+
+.footer p{
+    position: absolute;
+    left: 790px;
+    bottom: 15px;
+    color: white;
+    font-size: 13px;
+}
+
+.ft-img{
+ margin-top: 12px;
+}
+
+.fotter-A{
+    position: absolute;
+    width: 1000px;
+    height: 20px;
+    background-color: rgb(49, 49, 65);
+    top: 360px;
+    color: white;
+    font-size: 10px;
+    
+    
+
+}
+
+.footer-B{
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.bottom>.taps{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 50px;
+          
+
+}
+
+
+
+.final-A{
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    color: #97f5a9;
+    font-size: 13px;
+    
+    
+    
+}
+
+.final-B{
+    position: absolute;
+    top: 60px;
+    left: 250px;
+    color: #97f5a9;
+    font-size: 13px;
+}
+
+.taps>ul>li{
+    margin: 7px;
+    color: #97f5a9;
+}
+
